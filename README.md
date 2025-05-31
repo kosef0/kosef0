@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Furkan Köse</h1>
-<h3 align="center">A passionate full-stack developer & AI enthusiast from Turkey</h3>
+<h3 align="center">A passionate passionate data science & a full stack programming developer from Turkey</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kosef0&label=Profile%20views&color=0e75b6&style=flat" alt="kosef0" />
