@@ -7,10 +7,8 @@
 
 ---
 
-- 🔭 I’m currently working on **WordMaster-Web**  
+- 🔭 I’m currently working on **Object detection from drone footage**  
 - 🌱 I’m learning **Data Science, Web Programming, and AI integrations**  
-- 👯 I’m looking to collaborate on **open-source AI/Web projects**  
-- 💬 Ask me about **Python, Data Science, MongoDB, C#, and Assembly**  
 - 🧠 Exploring: **Data Science, GitHub Actions, and Microprocessors**  
 - 📫 Reach me at: **furkan.kose.251@gmail.com**  
 - ⚡ Fun fact: I once turned an idea into an entire project in one weekend!
@@ -60,7 +58,5 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
 
 
